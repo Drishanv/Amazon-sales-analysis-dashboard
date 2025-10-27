@@ -85,13 +85,6 @@ Add icons to represent metrics visually:
 
 Use Excel → **Insert → Icons** to add them.
 
-### 🧩 Slicers
-Enable interactive filters for:
-- **State**
-- **Product Category**
-
-Ensure all charts update dynamically when slicers are used.
-
 ---
 
 ## 🎨 Styling & Formatting
@@ -134,14 +127,6 @@ Before saving or submission:
 ## 💬 Author Notes
 This project demonstrates proficiency in **Excel data visualization, chart creation, interactivity, and design**.  
 It highlights how to turn raw sales data into meaningful insights and visually appealing dashboards for business use.
-
----
-
-## 🧠 How to Use
-1. Open `Amazon_Sales_Dashboard.xlsx` in Microsoft Excel.  
-2. Click slicers to filter by **state** or **product category**.  
-3. Observe the charts update automatically.  
-4. Optionally, refresh the dataset using **Data → Refresh All** when new data is added.
 
 ---
 
